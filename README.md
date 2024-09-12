@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Java<br>🎯 Goals: Competective<br></p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Java<br>🎯 Goals: Competective Develover <br></p>
 
 ###
 
